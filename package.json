@@ -1,0 +1,9 @@
+{
+  "name": "com.rikoo.dead-signs-shader",
+  "displayName": "Dead Signs Shader",
+  "version": "0.1.0",
+  "description": "The package that contains the shader developped for the video game Dead Signs",
+  "keywords": [
+    "utility"
+  ]
+}

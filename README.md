@@ -23,8 +23,6 @@ Add the following to your `manifest.json` file (which is under your project loca
 }
 ```
 
-You can now use it and don't want to kill your designer/artist anymore. 
-
 ## Updating
 Sometimes Unity has some hard time updating git dependencies so when you want to update the package, 
 follow this steps:

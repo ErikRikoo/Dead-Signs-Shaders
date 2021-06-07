@@ -52,7 +52,7 @@ follow this steps:
 ## How does it work
 Just include it and test the shaders 😄
 
-### Old TV Effect
+#### Old TV Effect
 For this effect, we tried to reproduce an old tv screen while running 
 some [post processing](https://github.com/ErikRikoo/Unity-UI-Post-Process.git) stuff on wolrd space UI.
 It gave multiple effects:
@@ -67,6 +67,12 @@ It gave multiple effects:
 - Distorsion which deforms the image as there was some glass on it
     - **Distorsion Intensity** is there to give the percentage of distorsion, 
     it can be negative to inverse the effect
+    
+#### Highlight Effect
+This shader can be used as on overlay over an object to show that it is interactible. 
+It looks like effect we can see un The Last Of Us and has been inspired by 
+[febucci tutorial](https://www.febucci.com/2019/04/pickable-objects-shader/).
+You can configure the speed of the effect and the highlight color.
 
 
 
